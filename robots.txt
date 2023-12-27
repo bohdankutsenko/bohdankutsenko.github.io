@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://bohdankutsenko.github.io/sitemap.xml
+Host: https://bohdankutsenko.github.io

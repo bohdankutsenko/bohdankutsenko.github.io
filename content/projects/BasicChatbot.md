@@ -1,6 +1,6 @@
 ---
 date: '2020-02-15'
-title: 'Basic Chatbot'
+title: 'Chatbot'
 github: 'https://github.com/bohdankutsenko/Basic-Chatbot'
 external: ''
 tech:

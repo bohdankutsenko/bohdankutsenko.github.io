@@ -20,19 +20,23 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bohdankutsenko/',
+      url: 'https://www.linkedin.com/in/bohdan-kutsenko-baa1532a6/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bohdankutsenko',
-    },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/bohdankutsenko',
+    // },
     {
       name: 'Instagram',
       url: 'https://www.instagram.com/bohdankutsenko',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/',
+      url: 'https://twitter.com/bohdankutsenko',
+    },
+    {
+      name: 'Facebook',
+      url: 'https://facebook.com/bohdankutsenko',
     },
   ],
 

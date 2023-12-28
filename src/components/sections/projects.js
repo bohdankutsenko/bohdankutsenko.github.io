@@ -183,6 +183,7 @@ const Projects = ({ data }) => {
                                 rel="nofollow noopener noreferrer"
                                 aria-label="GitHub Link">
                                 <FormattedIcon name="GitHub" />
+                                <span>(Private)</span>
                               </StyledIconLink>
                             )}
                             {external && (

@@ -2,7 +2,7 @@
 date: '2021-05-21'
 title: '365 Entertainment Movie WebApp'
 github: 'https://github.com/bohdankutsenko/365-entertainment-Movie-Webapp'
-external: 'https://bohdankutsenko.github.io/365-entertainment-Movie-Webapp/'
+external: ''
 tech:
   - HTML
   - CSS

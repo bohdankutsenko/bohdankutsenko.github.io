@@ -2,7 +2,7 @@
 date: '2021-04-18'
 title: 'Whatsapp Chat Analysis'
 github: 'https://github.com/bohdankutsenko/WhatsApp-Chat-Analysis'
-external: 'https://github.com/bohdankutsenko/WhatsApp-Chat-Analysis/blob/main/WhatsApp%20Chat%20Analysis.ipynb'
+external: ''
 tech:
   - Python
   - Regex

@@ -2,7 +2,7 @@
 date: '2021-05-15'
 title: 'Covid-19 Vaccine Analysis'
 github: 'https://github.com/bohdankutsenko/Covid19_Vaccine_Analysis'
-external: 'https://github.com/bohdankutsenko/Covid19_Vaccine_Analysis/blob/main/Covid19_Vaccine_Analysis.ipynb'
+external: ''
 tech:
   - Python
   - Numpy

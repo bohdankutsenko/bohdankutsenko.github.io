@@ -2,7 +2,7 @@
 date: '2021-05-18'
 title: 'Image Processing in Python'
 github: 'https://github.com/bohdankutsenko/Image-Processing-Python'
-external: 'https://github.com/bohdankutsenko/Image-Processing-Python/blob/main/Image_Processing.ipynb'
+external: ''
 tech:
   - Python
   - Numpy

@@ -32,7 +32,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bohdankutsenko',
+      url: 'https://twitter.com/kutsenko_b90934',
     },
     {
       name: 'Facebook',

@@ -289,7 +289,7 @@ class Nav extends Component {
               </TransitionGroup>
             </StyledList>
 
-            <TransitionGroup component={null}>
+            {/* <TransitionGroup component={null}>
               {isMounted && (
                 <CSSTransition classNames={fadeDownClass} timeout={timeout}>
                   <div style={{ transitionDelay: `${isHome ? navLinks.length * 100 : 0}ms` }}>
@@ -302,7 +302,7 @@ class Nav extends Component {
                   </div>
                 </CSSTransition>
               )}
-            </TransitionGroup>
+            </TransitionGroup> */}
           </StyledLink>
         </StyledNav>
 

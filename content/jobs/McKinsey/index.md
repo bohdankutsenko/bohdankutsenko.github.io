@@ -1,5 +1,5 @@
 ---
-date: '2021-05-19'
+date: '2019-12-19'
 title: 'Full Stack JavaScript Developer'
 company: 'McKinsey'
 location: remote

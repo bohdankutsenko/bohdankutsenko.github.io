@@ -10,7 +10,7 @@ module.exports = {
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Bohdan Kutsenko',
   location: 'Indore, India',
-  email: 'kucenkobogdan389@gmail.com',
+  email: 'bohdan.workspace0@gmail.com',
   github: 'https://github.com/bohdankutsenko',
   twitterHandle: '@',
   socialMedia: [
@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bohdan-kutsenko-baa1532a6/',
+      url: 'https://www.linkedin.com/in/bohdan-kutsenko-b251aa2a9/',
     },
     // {
     //   name: 'Codepen',
